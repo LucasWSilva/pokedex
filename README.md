@@ -13,4 +13,6 @@ Esta é uma Pokédex que mostra os 151 Pokémons da primeira geração e seus ti
 
  - [PokeApi](https://pokeapi.co/)
 
+## Github pages
 
+- https://lucaswsilva.github.io/pokedex/
